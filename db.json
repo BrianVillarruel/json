@@ -1,23 +1,24 @@
-[{
-  
-  "TpName": "GEOFLO",
+{
+	"TPs": [{
 
-  "region": "TA11",
+			"TpName": "GEOFLO",
 
-  "description": "DLS Geodis",
+			"region": "TA11",
 
-  "cty": "WWD"
+			"description": "DLS Geodis",
 
-  },
+			"cty": "WWD"
 
-  {
+		},
 
-  "TpName": "GEOFLO",
+		{
 
-  "region": "TA11",
+			"TpName": "GEOFLO",
 
-  "description": "SAP Geodis",
+			"region": "TA11",
 
-  "cty": "090"
+			"description": "SAP Geodis",
 
-   }]
+			"cty": "090"
+
+		}
