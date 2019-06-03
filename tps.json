@@ -1,0 +1,23 @@
+{
+  
+  "TpName": "GEOFLO",
+
+  "region": "TA11",
+
+  "description": "DLS Geodis",
+
+  "cty": "WWD"
+
+  },
+
+  {
+
+  "TpName": "GEOFLO",
+
+  "region": "TA11",
+
+  "description": "SAP Geodis",
+
+  "cty": "090"
+
+   }
